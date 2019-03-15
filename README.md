@@ -16,7 +16,7 @@ Este repositório é fruto de uma ação da Impulso.Network para dar visibilidad
 
 ### 🚀 Como Contribuir
 
-- Sugerindo os seus ou outros projetos opensources
+- Sugerindo os seus ou outros projetos open-source
 - Votando nas [sugestões](https://github.com/impulsonetwork/opensourcefriday/issues)
 - Contribuindo com os projetos sugeridos
   - Finalizou a tarefa? Post o PR no canal #open-source da [Impulso.Network](http://chat.impulso.network) para ganhar ainda mais visibilidade e pontuação em nosso ranking da Atena.
